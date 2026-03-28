@@ -1,6 +1,8 @@
 # 🗣️ Verbatim  
 ### Real-Time ASL Translation with Audio-Reactive Visualization  
 
+All files not fully in due to sheer volume; all necessary code documents are avalaible.
+
 ---
 
 ## What Is It?
