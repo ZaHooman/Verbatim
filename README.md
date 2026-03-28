@@ -62,13 +62,13 @@ Verbatim bridges communication gaps by translating American Sign Language (ASL) 
 ---
 
 ## Tech Stack
-- **Python** — core language  
-- **MediaPipe** — hand landmark detection  
-- **OpenCV** — webcam capture + processing  
-- **scikit-learn (Random Forest)** — gesture classification  
-- **pyttsx3** — text-to-speech engine  
-- **python-osc** — OSC communication bridge  
-- **TouchDesigner** — real-time visual simulation  
+- **Python** - core language  
+- **MediaPipe** - hand landmark detection  
+- **OpenCV** - webcam capture + processing  
+- **scikit-learn (Random Forest)** - gesture classification  
+- **pyttsx3** - text-to-speech engine  
+- **python-osc** - OSC communication bridge  
+- **TouchDesigner** - real-time visual simulation  
 
 ---
 
@@ -97,7 +97,7 @@ Verbatim bridges communication gaps by translating American Sign Language (ASL) 
 ---
 
 ## 👥 Developers
-- Raksha Kumaresan — Machine Learning & AI Software Engineer 
+- Raksha Kumaresan - Machine Learning & AI Software Engineer 
 - Kali Bucklen - Graphics & Systems Integration Developer  
 
 ---
