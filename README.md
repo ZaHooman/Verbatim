@@ -3,18 +3,18 @@
 
 ---
 
-## 🚀 Elevator Pitch
+## What Is It?
 Verbatim bridges communication gaps by translating American Sign Language (ASL) into spoken language in real time, enhanced with interactive, audio-reactive visuals that make communication both accessible and expressive.  
 
 ---
 
-## 💡 Inspiration
+## Inspiration
 - One of our teammates is friends with someone who is deaf and has seen firsthand the challenges of communication, especially due to the lack of universality of ASL  
 - This inspired us to create a tool that makes ASL more accessible while bridging language gaps—and turning the process into a fun and engaging visual experience  
 
 ---
 
-## 🧠 What It Does
+## What It Does
 - Verbatim translates ASL in real time and visualizes it through audio-reactive particle motion  
 - As users sign:  
   - 🤟 Hand gestures are detected and translated into text  
@@ -24,7 +24,7 @@ Verbatim bridges communication gaps by translating American Sign Language (ASL) 
 
 ---
 
-## 🛠️ How We Built It
+## How We Built It
 - **Hand Tracking:** Google Mediapipe + OpenCV to detect and extract hand landmarks  
 - **Machine Learning:**  
   - Processed landmark data into a dataset  
@@ -36,7 +36,7 @@ Verbatim bridges communication gaps by translating American Sign Language (ASL) 
 
 ---
 
-## ⚠️ Challenges/Changes
+## Challenges/Changes
 - Pivoting from TensorFlow/Keras to Random Forest due to small datasets and training speed  
 - Integrating multiple systems: ML + TTS + OSC + TouchDesigner  
 - A major system crash deleted ~6 hours of TouchDesigner work  
@@ -45,7 +45,7 @@ Verbatim bridges communication gaps by translating American Sign Language (ASL) 
 
 ---
 
-## 🏆 Accomplishments
+## Accomplishments
 - Successfully built a **fully integrated real-time pipeline**  
 - Connected Python + TouchDesigner using OSC  
 - Quickly recovered from a major system crash  
@@ -53,7 +53,7 @@ Verbatim bridges communication gaps by translating American Sign Language (ASL) 
 
 ---
 
-## 🔮 What’s Next
+## What’s Next
 - Expand beyond fingerspelling to support a full ASL vocabulary  
 - Collaborate with the deaf community to ensure accuracy and usability  
 - Integrate with platforms like Zoom for real-time virtual translation  
@@ -61,7 +61,7 @@ Verbatim bridges communication gaps by translating American Sign Language (ASL) 
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - **Python** — core language  
 - **MediaPipe** — hand landmark detection  
 - **OpenCV** — webcam capture + processing  
@@ -102,5 +102,5 @@ Verbatim bridges communication gaps by translating American Sign Language (ASL) 
 
 ---
 
-## 🏁 Built at
+## Built at
 FemmeHacks @ UPenn
